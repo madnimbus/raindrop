@@ -1,0 +1,14 @@
+{
+	"name" : "raindrop-vge",
+	"version" : "0.1.0",
+	"main" : "main.js",
+	"description" : "A minimal vector graphics editor made for desktop and html5",
+	"keywords" : ["vector", "graphics", "image", "editor", "desktop", "html5"],
+	"license" : "MIT",
+	"author" : {
+		"name" : "Ryan Madden"
+	},
+	"dependencies" : {
+		"electron-prebuilt" : "~0.37.7"
+	}
+}
