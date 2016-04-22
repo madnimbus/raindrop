@@ -1,5 +1,20 @@
-npm-debug.log
+# Logs and Databases
+*.log
+*.sql
+*.sqlite
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project Specific
 libs
-ignoreme.txt
 node_modules
+ignoreme.txt
 todo.txt
+.atom-build.json
